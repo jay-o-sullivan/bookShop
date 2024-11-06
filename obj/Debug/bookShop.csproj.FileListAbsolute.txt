@@ -1,0 +1,13 @@
+E:\Laptop\bookShop\bookShop\obj\Debug\bookShop.csproj.CoreCompileInputs.cache
+E:\Laptop\bookShop\bookShop\bin\Debug\bookShop.exe.config
+E:\Laptop\bookShop\bookShop\bin\Debug\bookShop.exe
+E:\Laptop\bookShop\bookShop\bin\Debug\bookShop.pdb
+E:\Laptop\bookShop\bookShop\obj\Debug\bookShop.exe
+E:\Laptop\bookShop\bookShop\obj\Debug\bookShop.pdb
+D:\Laptop\bookShop\bookShop\bin\Debug\bookShop.exe.config
+D:\Laptop\bookShop\bookShop\bin\Debug\bookShop.exe
+D:\Laptop\bookShop\bookShop\bin\Debug\bookShop.pdb
+D:\Laptop\bookShop\bookShop\obj\Debug\bookShop.csproj.CoreCompileInputs.cache
+D:\Laptop\bookShop\bookShop\obj\Debug\bookShop.exe
+D:\Laptop\bookShop\bookShop\obj\Debug\bookShop.pdb
+D:\Laptop\bookShop\bookShop\obj\Debug\bookShop.csprojAssemblyReference.cache
